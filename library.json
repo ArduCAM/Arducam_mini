@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/ArduCAM/Arduino.git"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "export": {
       "include": "ArduCAM"
     },
